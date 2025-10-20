@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --my-custom-color: #ff00ff;
+}
+
+html { scroll-behavior: smooth; }
