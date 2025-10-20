@@ -16,10 +16,10 @@ Getting Started
 
 Runs locally at http://localhost:5173
 
-For production:
+Run the following commands:
 
-npm run build
-npm run preview
+`npm install`  
+`npm run dev`
 
 Plugins
 
